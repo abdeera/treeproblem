@@ -1,5 +1,5 @@
 # treeproblem
-This is a roleplaying game derived from 8 queens problem, made through my first year master degree. enjoy and don't forget to attribute the source in your work.
+This is a roleplaying game derived from 8 queens problem, made through my first year master degree in 2011. enjoy and don't forget to attribute the source in your work.
 
 This game rolls starting from two dimentions, n=length of the board, m=number of trees to plant<=n.
 
