@@ -7,9 +7,8 @@ As the player clicks on squares in same row/column/diagonal, he should take in c
 
 The game is in french, i will work on translation as soon time is available for me ! ;) thanks.
 
-This software is accompanied with a report and research paper of 50 pages i wrote it during three months, including all heuristics and artificial intelligence approaches used to ultimize records. Contact me if you want it.
+This software is accompanied with a report and research paper of 35 pages i wrote it during three months, including all heuristics and artificial intelligence approaches used to ultimize records. Contact me if you want it.
 
 
 # LICENSE
 This work is classified CC by A, any use of this material implies its source and its author.
-
